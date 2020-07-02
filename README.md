@@ -1,8 +1,10 @@
 # All-wheel-for-Python-tensorflow
-I am providing all .whl files for your convenience to install tensorflow in Python.
+If you want to run tensorflow package on your machine (through anaconda), you might have be able to install it through Anaconda. 
+However, my machine was having trouble with installing the tensorflow.
+I finally installed if all by my self with getting all required .whl/tar files.
 
-As you may have a hard time installing qualified tensorflow on your machine. (Well, I did.) 
-These are all .whl files you may need to install in command line before you install the tensorflow. 
+Therefore, I would like to provide all .whl files for your convenience to install tensorflow in Python.
+Below are all .whl files you may need to install in command line before you install the tensorflow. 
 
 Prerequisite: Anaconda
 > Create a file folder in your computer
@@ -22,5 +24,8 @@ Prerequisite: Anaconda
 >    The last .whl you need to install is "tensorflow-1.14......"
 
 
-Hope these work!
-Good luck in your all Data Science, Machine Learning, AI, or NLP works!
+Hope these work!  
+Good luck in your all Data Science, Machine Learning, AI, NLP, or whatever works!  
+
+
+-- Wafer Hsu
